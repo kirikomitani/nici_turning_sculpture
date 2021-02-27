@@ -4,7 +4,7 @@
 //wave
 kal::wave wave0(0.0,PI/2,1.0/360.0,TRIANGLE);
 //kal::wave wave0(0.0,PI/6,1.0/60.0,TRIANGLE);
-kal::wave wave_pwm(0.0,3.0,0.1,SIN); //test
+kal::wave wave_pwm(0.0,3.0,0.1,SIN); //yahho
 
 
 //motor
